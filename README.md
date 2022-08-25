@@ -2,7 +2,7 @@
 - 👀 I’m interested in Distro Hopping
 - 🌱 I’m currently learning C++ Adv
 - 💞️ I’m looking for fellow mates who are sorta new to coding
-- 📫 You can reach me at Instagram as @xenovvia
+- 📫 You can reach me at Instagram as @nerdo001
 
 <!---
 xxharmanxx/xxharmanxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

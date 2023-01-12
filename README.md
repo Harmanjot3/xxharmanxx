@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xxharmanxx
-- 👀 I’m interested in Distro Hopping
+- 👀 I’m interested in Distro Hopping , .NET FRAMEWORK, ethicals
 - 🌱 I’m currently learning C++ Adv
 - 💞️ I’m looking for fellow mates who are sorta new to coding
 - 📫 You can reach me at Instagram as @nerdo001

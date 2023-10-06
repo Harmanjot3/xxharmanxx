@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Profile Banner](https://www.canva.com/design/DAFwgha7few/AdGN0LAKlrx2v5qM5Jv0fA/edit?utm_content=DAFwgha7few&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Replace with a banner image that represents your profile -->
+![Profile Banner](Purple Abstract Wave LinkedIn Banner.png) <!-- Replace with a banner image that represents your profile -->
 
 Hello, I'm Harmanjot, a dedicated third-year Computer Science student at KIIT University. I am passionate about programming and technology, and I enjoy working on a wide range of projects. Here's a little more about me:
 

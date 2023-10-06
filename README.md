@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile
 
- <!-- Replace with a banner image that represents your profile -->
+![Profile Banner](https://github.com/xxharmanxx/xxharmanxx/blob/067bf4f42f7cd5d2ad97d08a0ef05d89ec0eafc5/Purple%20Abstract%20Wave%20LinkedIn%20Banner.png)
+
 
 Hello, I'm Harmanjot, a dedicated third-year Computer Science student at KIIT University. I am passionate about programming and technology, and I enjoy working on a wide range of projects. Here's a little more about me:
 
